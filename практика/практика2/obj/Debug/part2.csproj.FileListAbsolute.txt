@@ -1,0 +1,12 @@
+C:\Users\nooom\source\repos\практика\практика2\bin\Debug\практика2.exe.config
+C:\Users\nooom\source\repos\практика\практика2\bin\Debug\практика2.exe
+C:\Users\nooom\source\repos\практика\практика2\bin\Debug\практика2.pdb
+C:\Users\nooom\source\repos\практика\практика2\bin\Debug\практика.exe
+C:\Users\nooom\source\repos\практика\практика2\bin\Debug\практика.pdb
+C:\Users\nooom\source\repos\практика\практика2\bin\Debug\практика.exe.config
+C:\Users\nooom\source\repos\практика\практика2\obj\Debug\part2.csproj.AssemblyReference.cache
+C:\Users\nooom\source\repos\практика\практика2\obj\Debug\part2.csproj.SuggestedBindingRedirects.cache
+C:\Users\nooom\source\repos\практика\практика2\obj\Debug\part2.csproj.CoreCompileInputs.cache
+C:\Users\nooom\source\repos\практика\практика2\obj\Debug\part2.csproj.CopyComplete
+C:\Users\nooom\source\repos\практика\практика2\obj\Debug\практика2.exe
+C:\Users\nooom\source\repos\практика\практика2\obj\Debug\практика2.pdb

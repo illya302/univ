@@ -1,0 +1,8 @@
+C:\Users\nooom\source\repos\практика\практика\bin\Debug\практика.exe.config
+C:\Users\nooom\source\repos\практика\практика\bin\Debug\практика.exe
+C:\Users\nooom\source\repos\практика\практика\bin\Debug\практика.pdb
+C:\Users\nooom\source\repos\практика\практика\obj\Debug\part1.csproj.AssemblyReference.cache
+C:\Users\nooom\source\repos\практика\практика\obj\Debug\part1.csproj.SuggestedBindingRedirects.cache
+C:\Users\nooom\source\repos\практика\практика\obj\Debug\part1.csproj.CoreCompileInputs.cache
+C:\Users\nooom\source\repos\практика\практика\obj\Debug\практика.exe
+C:\Users\nooom\source\repos\практика\практика\obj\Debug\практика.pdb
